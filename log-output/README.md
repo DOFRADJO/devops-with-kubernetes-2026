@@ -1,6 +1,6 @@
 # Log Output Application
 
-A simple application built for the DevOps with Kubernetes course (Exercise 1.01).
+A simple application built for the DevOps with Kubernetes course (Exercise 1.1).
 
 ## Overview
 
