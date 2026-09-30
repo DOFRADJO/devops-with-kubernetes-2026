@@ -6,4 +6,4 @@ Repository for the exercises of the course [DevOps with Kubernetes](https://cour
 ## Exercises
 
 ### Chapter 2
-- [1.1.](https://github.com/DOFRADJO/devops-with-kubernetes-2026/tree/1.1/log_output)
+- [1.1.](https://github.com/DOFRADJO/devops-with-kubernetes-2026/tree/1.1/log-output)
